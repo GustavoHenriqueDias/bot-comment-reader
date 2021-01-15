@@ -1,7 +1,6 @@
-Bot para leitura, contagem e ordenação de comentários.
 
 
-Bot for reading, counting and ordering comments.
+Instagram bot for reading, counting and ordering comments.
 
 Output: 
 
